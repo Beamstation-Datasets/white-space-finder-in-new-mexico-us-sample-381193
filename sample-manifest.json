@@ -1,12 +1,12 @@
 {
-  "export_job_id": "9dbf037e-be02-40c1-9f04-33ad40342430",
+  "export_job_id": "f958d1d9-828e-488a-8081-3e96d410e3f5",
   "id_short": 381193,
-  "published_at": "2026-04-11T19:46:46Z",
+  "published_at": "2026-04-18T08:00:01Z",
   "repo_name": "white-space-finder-in-new-mexico-us-sample-381193",
   "sample_asset_name": "beamstation_381193_food_and_drink-us-nm_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/381193/beamstation_381193_food_and_drink-us-nm_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "d1aeecdd6c2a1512854844acea359ca586e339df5e17a2e070c8338265b9daa5",
-  "sample_size_bytes": 24253,
-  "total_records": 37
+  "sample_records": 5,
+  "sample_sha256": "f37c7f1c8add5136538c4a31aa29b73635711473341f0fe6cb714be438423c35",
+  "sample_size_bytes": 34286,
+  "total_records": 51
 }
